@@ -22,23 +22,21 @@ I’m currently looking for an internship (6 month) or a permanent contract. I c
 
 <!-- # Recent Projects :  
 ### Marvel
-* Link repo front :
-* Link repo back :
+* Repo front : 
+* Repo back :
 * See it in [live](lien du netifly)
 
 <br/>
 
 ### Vinted
-* Link repo front :
-* Link repo back :
+* Repo front :
+* Repo back :
 * See it in [live](lien du netifly)
 
 <br/>
 
 ### Airbnb
-* Link repo front :
-* Link repo back :
-* See it in [live](lien du netifly)
+* Repo front :
 
 
 <br/>

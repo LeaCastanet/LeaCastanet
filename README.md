@@ -28,3 +28,5 @@ I’m currently looking for an internship (6 month) or a permanent contract. I c
 <img src="https://github.com/LeaCastanet/ReadMeGif/blob/main/nodeJs.png?raw=true" width="100" height="50"/>&nbsp;
 <img src="https://github.com/LeaCastanet/ReadMeGif/blob/main/forestAdmin.png?raw=true" width="100" height="80"/>
 </div>
+
+<img src="" width="700"/>

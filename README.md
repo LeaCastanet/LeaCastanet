@@ -20,25 +20,25 @@ I’m currently looking for an internship (6 month) or a permanent contract. I c
 
 <br/>
 
-<!-- # Recent Projects :  
+# Recent Projects :  
 ### Marvel
-* Repo front : 
-* Repo back :
-* See it in [live](lien du netifly)
+* Repo front : https://github.com/LeaCastanet/Marvel-FrontEnd.git
+* Repo back : https://github.com/LeaCastanet/Marvel-BackEnd.git
+* See it in [live](https://lea-castanet-marvel.netlify.app/)
 
 <br/>
 
 ### Vinted
-* Repo front :
-* Repo back :
-* See it in [live](lien du netifly)
+* Repo front : https://github.com/LeaCastanet/vinted-frontEnd.git
+* Repo back : https://github.com/LeaCastanet/my-vinted.git
+* See it in [live](https://lea-castanet-replique-vinted.netlify.app/)
 
 <br/>
 
 ### Airbnb
-* Repo front :
+* Repo front : https://github.com/LeaCastanet/my-airbnb.git
 
-
+<!--
 <br/>
 
 ### Motto (MVP)

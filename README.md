@@ -20,3 +20,6 @@ I’m currently looking for an internship (6 month) or a permanent contract. I c
 </div>
 
 ---
+
+### Recent Projects :
+

@@ -21,7 +21,12 @@ I’m currently looking for an internship (6 month) or a permanent contract. I c
 <br/>
 
 # Recent Projects :  
-### Marvel
+### Marvel API
+
+<div>
+<img src="https://github.com/LeaCastanet/ReadMeGif/blob/main/Marvel%20API.png?raw=true" />
+</div>
+
 * Repo front : https://github.com/LeaCastanet/Marvel-FrontEnd.git
 * Repo back : https://github.com/LeaCastanet/Marvel-BackEnd.git
 * See it in [live](https://lea-castanet-marvel.netlify.app/)

@@ -16,13 +16,15 @@ I’m currently looking for an internship (6 month) or a permanent contract. I c
 ### Languages and Tools :
 
 <div>
-<img src="" width="80" height="80"/>
-<img src="" width="80" height="80"/>
-<img src="" width="80" height="80"/>
-<img src="" width="80" height="80"/>
-<img src="" width="80" height="80"/>
-<img src="" width="80" height="80"/>
-<img src="" width="80" height="80"/>
-<img src="" width="80" height="80"/>
-<img src="" width="80" height="80"/>
+<img src="https://github.com/LeaCastanet/ReadMeGif/blob/main/javascript.png?raw=true" width="53" height="53"/>&nbsp;
+<img src="https://github.com/LeaCastanet/ReadMeGif/blob/main/css.png?raw=true" width="50" height="50"/>&nbsp;
+<img src="https://github.com/LeaCastanet/ReadMeGif/blob/main/html.png?raw=true" width="50" height="50"/>&nbsp;
+<img src="https://github.com/LeaCastanet/ReadMeGif/blob/main/Mongodb-PNG-portfolio.png?raw=true" width="55" height="55"/>&nbsp;
+<img src="https://github.com/LeaCastanet/ReadMeGif/blob/main/postMan.png?raw=true" width="50" height="50"/>&nbsp;
+<img src="https://github.com/LeaCastanet/ReadMeGif/blob/main/northflank.png?raw=true" width="150" height="60"/>&nbsp;
+<img src="https://github.com/LeaCastanet/ReadMeGif/blob/main/react.png?raw=true" width="70" height="50"/>&nbsp;
+<img src="https://github.com/LeaCastanet/ReadMeGif/blob/main/reactNative.png?raw=true" width="70" height="50"/>&nbsp;
+<img src="https://github.com/LeaCastanet/ReadMeGif/blob/main/expoApp.png?raw=true" width="130" height="50"/>&nbsp;
+<img src="https://github.com/LeaCastanet/ReadMeGif/blob/main/nodeJs.png?raw=true" width="100" height="50"/>&nbsp;
+<img src="https://github.com/LeaCastanet/ReadMeGif/blob/main/forestAdmin.png?raw=true" width="100" height="80"/>
 </div>

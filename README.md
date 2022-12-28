@@ -18,3 +18,5 @@ I’m currently looking for an internship (6 month) or a permanent contract. I c
 <div align="center">
 <img src="https://github.com/LeaCastanet/ReadMeGif/blob/main/langages.png?raw=true" width="700" height="300"/>
 </div>
+
+---

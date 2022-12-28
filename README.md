@@ -34,6 +34,11 @@ I’m currently looking for an internship (6 month) or a permanent contract. I c
 <br/>
 
 ### Vinted
+
+<div>
+<img src="https://github.com/LeaCastanet/ReadMeGif/blob/main/VintedReplica.png?raw=true" />
+</div>
+
 * Repo front : https://github.com/LeaCastanet/vinted-frontEnd.git
 * Repo back : https://github.com/LeaCastanet/my-vinted.git
 * See it in [live](https://lea-castanet-replique-vinted.netlify.app/)

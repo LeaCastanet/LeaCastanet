@@ -10,6 +10,8 @@ After 6 years of study to complete a master’s degree in physical education (5 
 
 I’m currently looking for an internship (6 month) or a permanent contract. I can start as soon as possible.
 
+✉️ Feel free to contact me lea.castanet@hotmail.com
+
 <br/>
 
 # Languages and Tools :

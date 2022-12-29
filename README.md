@@ -57,7 +57,9 @@ I’m currently looking for an internship (6 month) or a permanent contract. I c
 <br/>
 
 ### Motto (MVP)
-Phtot et petite video du projet
+
+
+
 -->
 
 

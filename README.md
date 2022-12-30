@@ -55,14 +55,25 @@ I’m currently looking for an internship (6 month) or a permanent contract. I c
 
 * Repo front : https://github.com/LeaCastanet/my-airbnb.git
 
-<!--
+
 <br/>
 
 ### Motto (MVP)
 
+<br/>
+MVP : Fullstack Mobile Application (IOS & ANDROID) for MVP / REACT-NATIVE / NODEJS / FORESTADMIN / STRIPE / MONGODB / CRUD.
+
+Motto is a vintage clothing sales application aiming at creating a fashion dictionary. The motto community is going to create the dictionary incrementally with their own ads for items of vintage clothing. With this application you can sell and buy clothing but you can also just post one of your most wonderful item to share it with the community and help build the dictionary. All of the items posted must be from before 2000 and are checked by the motto team before they appear on the application.
+
+Frontend : signIn, signUp, see all the ads available, create, modify and delete an ad, buy an item, wallet, purchase history, modify your profile, fashion dictionary.
+
+Backend : CRUD, Authentification, backoffice with forestAdmin (content administration), payment with stripe.
+
+Repo : Private
 
 
--->
+
+
 
 
 

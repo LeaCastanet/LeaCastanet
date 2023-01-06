@@ -60,8 +60,9 @@ I’m currently looking for an internship (6 month) or a permanent contract. I c
 
 ### Motto (MVP)
 
-<br/>
-MVP : Fullstack Mobile Application (IOS & ANDROID) for MVP / REACT-NATIVE / NODEJS / FORESTADMIN / STRIPE / MONGODB / CRUD.
+<div>
+<img src="https://github.com/LeaCastanet/ReadMeGif/blob/main/MVP-min.png?raw=true"/>
+</div>
 
 Motto is a vintage clothing sales application aiming at creating a fashion dictionary. The motto community is going to create the dictionary incrementally with their own ads for items of vintage clothing. With this application you can sell and buy clothing but you can also just post one of your most wonderful item to share it with the community and help build the dictionary. All of the items posted must be from before 2000 and are checked by the motto team before they appear on the application.
 

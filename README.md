@@ -17,7 +17,7 @@ I’m currently looking for an internship (6 month) or a permanent contract. I c
 # Languages and Tools :
 
 <div align="center">
-<img src="https://github.com/LeaCastanet/ReadMeGif/blob/main/langages.png?raw=true" width="700" height="300"/>
+<img src="https://github.com/LeaCastanet/ReadMeGif/blob/main/langages.png?raw=true" />
 </div>
 
 <br/>
@@ -25,7 +25,7 @@ I’m currently looking for an internship (6 month) or a permanent contract. I c
 # Recent Projects :  
 ### Marvel API
 
-<div>
+<div align="center">
 <img src="https://github.com/LeaCastanet/ReadMeGif/blob/main/Marvel%20API.png?raw=true" />
 </div>
 
@@ -37,7 +37,7 @@ I’m currently looking for an internship (6 month) or a permanent contract. I c
 
 ### Vinted
 
-<div>
+<div align="center">
 <img src="https://github.com/LeaCastanet/ReadMeGif/blob/main/VintedReplica.png?raw=true" />
 </div>
 
@@ -49,7 +49,7 @@ I’m currently looking for an internship (6 month) or a permanent contract. I c
 
 ### Airbnb
 
-<div>
+<div align="center">
 <img src="https://github.com/LeaCastanet/ReadMeGif/blob/main/Airbnb%20replica-min.png?raw=true" />
 </div>
 
@@ -60,7 +60,7 @@ I’m currently looking for an internship (6 month) or a permanent contract. I c
 
 ### Motto (MVP)
 
-<div>
+<div align="center">
 <img src="https://github.com/LeaCastanet/ReadMeGif/blob/main/MVP-min.png?raw=true"/>
 </div>
 

@@ -53,7 +53,7 @@ I’m currently looking for an internship (6 month) or a permanent contract. I c
 <img src="https://github.com/LeaCastanet/ReadMeGif/blob/main/Airbnb%20replica-min.png?raw=true" />
 </div>
 
-* Repo front : https://github.com/LeaCastanet/my-airbnb.git
+* Repo front : https://github.com/LeaCastanet/airbnb.git
 
 
 <br/>

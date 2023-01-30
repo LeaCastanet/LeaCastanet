@@ -72,6 +72,15 @@ Backend : CRUD, Authentification, backoffice with forestAdmin (content administr
 
 Repo : Private
 
+# Game Projects :
+### Snake Game
+
+<div align="center">
+<img src="https://github.com/LeaCastanet/ReadMeGif/blob/main/Snake-Game.png?raw=true" />
+</div>
+
+* Repo front : https://github.com/LeaCastanet/snake-game.git
+* See it in [live](https://snake-game-lc.netlify.app/)
 
 
 

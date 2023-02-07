@@ -80,7 +80,20 @@ Repo : Private
 </div>
 
 * Repo front : https://github.com/LeaCastanet/snake-game.git
-* See it in [live](https://snake-game-lc.netlify.app/)
+* [Play](https://snake-game-lc.netlify.app/)
+
+<br/>
+
+### Space Invaders
+
+<div align="center">
+<img src="https://github.com/LeaCastanet/ReadMeGif/blob/main/Space-Invaders.png?raw=true" />
+</div>
+
+* Repo front : https://github.com/LeaCastanet/Space-Invaders.git
+* [Play](https://space-invaders-lc.netlify.app/)
+
+
 
 
 
